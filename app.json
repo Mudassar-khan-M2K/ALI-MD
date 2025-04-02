@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "ENYhnaKK#dIbtNE7UH5Aqb0Y_MswB_pkYr-0kfEZWu7j3D7FEYTM",
       "required": true,
       "value": ""
     },  
@@ -21,7 +21,7 @@
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
+      "required": true,
       "value": "."
     },
     
@@ -35,7 +35,7 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
+      "required": true,
       "value": "false"  
     },    
   
