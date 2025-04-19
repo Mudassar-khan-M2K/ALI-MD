@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "ENYhnaKK#dIbtNE7UH5Aqb0Y_MswB_pkYr-0kfEZWu7j3D7FEYTM",
+      "description": "IPkT2ZRK#RUVPdf908bDtW-vFL1nB_y1YCSBh6L404JkGEp6uP8Y",
       "required": true,
-      "value": ""
+      "value": "IPkT2ZRK#RUVPdf908bDtW-vFL1nB_y1YCSBh6L404JkGEp6uP8Y"
     },  
     
     "STICKER_NAME": {
@@ -35,7 +35,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
